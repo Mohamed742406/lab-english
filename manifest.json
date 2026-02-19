@@ -2,7 +2,7 @@
     "name": "Lab English from Zero",
     "short_name": "Lab English",
     "description": "Learn English for Engineering Labs — from Zero",
-    "start_url": "/index.html",
+    "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#f1f5f9",
     "theme_color": "#0f2a4a",
